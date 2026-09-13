@@ -1,0 +1,1 @@
+Key.backspace Keock d Key.caps_lock Key.num_lock Key.num_lock Key.num_lock Key.num_lock <98> <98> <98> Key.num_lock Key.num_lock Key.page_up Key.page_up Key.right Key.down 
